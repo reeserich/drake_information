@@ -1,8 +1,6 @@
 # An information theoretic characterization of Drake's lyrics
 
-The code and data in this repository accompanies the manuscript ["An information theoretic characterization of Drake's lyrics"](https://github.com/reeserich/drake_information/richardson_drake_information_2023.pdf), submitted to the 2023 Sixposium hosted by 13101401 Inc.
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+The code and data in this repository accompanies the manuscript ["An information theoretic characterization of Drake's lyrics"](https://github.com/reeserich/drake_information/blob/main/richardson_drake_information_2023.pdf), submitted to the 2023 Sixposium hosted by 13101401 Inc.
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
